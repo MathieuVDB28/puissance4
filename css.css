@@ -1,0 +1,28 @@
+   body {
+    width: 2000px;
+   }
+
+    #tableau {
+    border-collapse: collapse;
+    width: auto;
+    height: auto;
+    margin-left: 400px;
+}    
+    #tableau tr {
+    width: auto;
+    height: 98px;
+    
+}
+    
+    
+    #tableau td {
+    width: 99px;
+    height: 98px;
+    background-image: url("bckg.png");
+}
+  
+
+   h2 {
+       margin-left: 620px;
+       margin-top: -5px;
+   }
